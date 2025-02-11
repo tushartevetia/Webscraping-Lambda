@@ -1,0 +1,6 @@
+boto3
+feedparser
+selenium
+unidecode
+bs4
+webdriver-manager
